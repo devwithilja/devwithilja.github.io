@@ -1,5 +1,6 @@
 # [devwithilja.github.io](https://devwithilja.github.io)
 Blog about IT Web Security - Specializing in Web App Penetration
+My nickname is often mixed between Trype and iTrype. Depends on the platform what is available :)
 
 ## 2024 Highlights
 
