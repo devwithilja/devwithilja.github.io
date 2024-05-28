@@ -4,7 +4,7 @@ From May 25th to 26th, I had the pleasure of participating in NahamCon 2024's 48
 
 ### Team Performance
 Our team secured the 153rd position out of over 3,800 teams and 7,200 players, which was a remarkable achievement given the scale and competitiveness of the event.
-![TeamPlacement](https://github.com/devwithilja/repository/blob/branch/path/to/NahamCon-CTF.png)
+![TeamPlacement](https://github.com/devwithilja/devwithilja.github.io/blob/main/2024/NahamCon_2024_images/NahamCon-CTF.png)
 
 ### Challenges
 The CTF featured 70 diverse challenges. One of the highlights for me was the "Curly Fries" challenge, a privilege escalation task that involved:
