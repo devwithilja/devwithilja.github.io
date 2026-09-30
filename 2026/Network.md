@@ -1,4 +1,4 @@
-Multi-Site Enterprise Network & Security Simulation
+## Multi-Site Enterprise Network & Security Simulation
 - mehrstandortigen Enterprise-Netzwerkinfrastruktur (Cisco Packet Tracer & Virtualized Security Lab)
 Network Access Control (NAC) & 802.1X: Implementierung einer portbasierten Authentifizierung (802.1X) unter Einsatz von RADIUS-Diensten zur Absicherung von Switch-Infrastrukturen.
 Next-Gen Firewall & VPN: Konfiguration von Firewall-Sicherheitszonen, SSL-VPN und IPSec Site-to-Site VPN-Tunnels (FortiOS / Cisco ASA) zur sicheren Anbindung von Remote-Arbeitsplätzen und Außenstellen.
